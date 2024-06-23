@@ -19,7 +19,7 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/yourusername/email-spam-classifier.git
+git clone https://github.com/IshitaSingh23/Email-Spam-Classifier.git
 cd email-spam-classifier
 
 Install the required dependencies:
